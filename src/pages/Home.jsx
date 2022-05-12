@@ -30,11 +30,6 @@ const Introduction = () => {
           only focus on couple of them <b>web development</b> and&nbsp;
           <b>android or iOS</b> and the rest will be for my cultivation.
         </p>
-        <p className="text-muted fs-6">
-          Note: This website is my first to deploy and it indeed lacks of
-          contents but I will add some in the future. Thanks for your
-          understanding.
-        </p>
       </Container>
     </>
   );

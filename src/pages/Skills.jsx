@@ -11,9 +11,9 @@ const SkillIcons = () => {
   return (
     <>
       <Nav className="d-flex flex-row w-75 text-center">
-        <Card className="w-50 m-2 px-3 pt-3">
+        <Card className="w-50 m-2 px-3 pt-3 border-white">
           <Card.Img
-            className="img-thumbnail"
+            className="img-thumbnail border-white"
             variant="top"
             src={javaIcon}
             alt="javaIcon"
@@ -22,9 +22,9 @@ const SkillIcons = () => {
             <Card.Title className="h6">Java</Card.Title>
           </Card.Body>
         </Card>
-        <Card className="w-50 m-2 px-3 pt-3">
+        <Card className="w-50 m-2 px-3 pt-3 border-white">
           <Card.Img
-            className="img-thumbnail"
+            className="img-thumbnail border-white"
             variant="top"
             src={htmlIcon}
             alt="htmlIcon"
@@ -33,9 +33,9 @@ const SkillIcons = () => {
             <Card.Title className="h6">HTML</Card.Title>
           </Card.Body>
         </Card>
-        <Card className="w-50 m-2 px-3 pt-3">
+        <Card className="w-50 m-2 px-3 pt-3 border-white">
           <Card.Img
-            className="img-thumbnail"
+            className="img-thumbnail border-white"
             variant="top"
             src={cssIcon}
             alt="cssIcon"
@@ -44,9 +44,9 @@ const SkillIcons = () => {
             <Card.Title className="h6">CSS</Card.Title>
           </Card.Body>
         </Card>
-        <Card className="w-50 m-2 px-3 pt-3">
+        <Card className="w-50 m-2 px-3 pt-3 border-white">
           <Card.Img
-            className="img-thumbnail"
+            className="img-thumbnail border-white"
             variant="top"
             src={javascriptIcon}
             alt="javascriptIcon"
@@ -55,9 +55,9 @@ const SkillIcons = () => {
             <Card.Title className="h6">Javascript</Card.Title>
           </Card.Body>
         </Card>
-        <Card className="w-50 m-2 px-3 pt-3">
+        <Card className="w-50 m-2 px-3 pt-3 border-white">
           <Card.Img
-            className="img-thumbnail"
+            className="img-thumbnail border-white"
             variant="top"
             src={pythonIcon}
             alt="pythonIcon"
@@ -66,9 +66,9 @@ const SkillIcons = () => {
             <Card.Title className="h6">Python</Card.Title>
           </Card.Body>
         </Card>
-        <Card className="w-50 m-2 px-3 pt-3">
+        <Card className="w-50 m-2 px-3 pt-3 border-white">
           <Card.Img
-            className="img-thumbnail"
+            className="img-thumbnail border-white"
             variant="top"
             src={bootstrapIcon}
             alt="bootstrapIcon"
